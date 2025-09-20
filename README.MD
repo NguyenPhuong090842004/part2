@@ -16,7 +16,7 @@ Bài tập này dựa theo video:
 
 1. Clone project về:
    ```bash
-   git clone https://github.com/phuongnguyen09082004/part2.git
+   git clone https://github.com/nguyenphuong09082004/part2.git
    cd <tên-thư-mục>
 
 Cài đặt dependencies:
